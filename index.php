@@ -1,4 +1,4 @@
 <?
-echo "Test of heroku from GitHub 2";
+echo "Test of heroku from GitHub 3";
 
 ?>
