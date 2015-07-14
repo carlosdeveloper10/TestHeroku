@@ -4,5 +4,5 @@
 
     $result = $x + $y;
     echo "Result is:  " . $result . "<br>";
-    echo "<a href='index.html'>to the index</a>";
+    echo "<a href='index.php'>to the index</a>";
 ?>
